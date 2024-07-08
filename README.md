@@ -7,14 +7,17 @@
 <h3 align="center">A passionate full stack developer.</h3>
 <!-- <img align="right" alt="coding" height="200" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> -->
 
- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=inupama21&label=Profile%20views&color=0e75b6&style=flat" alt="inupama21" /> </p>
+ <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"> <br>
+ 
+- 🔭 I’m currently working on **E-commerce Platform**
 
 - 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **react, java**
 
 - 📫 How to reach me **inupamasandali7@gmail.com**
+
+- ⚡ Fun fact **I'm a coffee lover**
 
 <br>
 <h3 align="left">Connect with me:</h3>
